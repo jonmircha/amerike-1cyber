@@ -6,6 +6,10 @@ Soy profesor en **AMERIKE** en las carreras de Videojuegos (_**ARTs y DEVs**_) y
 
 También soy _Edutuber_ y mi canal de Youtube es [este](https://youtube.com/jonmircha)
 
-Haciendo un cambio para ver como funciona el seguimiento de _Git_.
+A continuación les colocaré una lista de enlaces con artículos de blog y videotutoriales de las tecnologías que hemos aprendido:
+
+- Manejo de Terminal
+  - [Artículo](https://jonmircha.com/terminal)
+  - [Video tutorial](https://www.youtube.com/watch?v=Pi0KVD4xTbc)
 
 ![Jon MirCha](./assets/jonmircha.jpg)
