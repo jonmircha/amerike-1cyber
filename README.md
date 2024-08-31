@@ -11,5 +11,8 @@ A continuación les colocaré una lista de enlaces con artículos de blog y vide
 - Manejo de Terminal
   - [Artículo](https://jonmircha.com/terminal)
   - [Video tutorial](https://www.youtube.com/watch?v=Pi0KVD4xTbc)
+- _MarkDown_
+  - [Artículo](https://jonmircha.com/markdown)
+  - [Video tutorial](https://www.youtube.com/watch?v=FlsoBiteuPM)
 
 ![Jon MirCha](./assets/jonmircha.jpg)
