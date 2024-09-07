@@ -1,0 +1,4 @@
+.DS_Store
+*.exe
+!vacuna.exe
+node_modules
