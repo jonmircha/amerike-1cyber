@@ -13,6 +13,8 @@ En este repositorio encontrarán los recursos de la asignatura de Programación 
   - [Artículo](https://jonmircha.com/git)
   - [Video tutorial](https://www.youtube.com/watch?v=suzMNqDQiyU)
 
+En esta clase estamos aprendiendo el uso y manejo de las ramas. Regresandso de receso veremos como fusionar el contenido de las ramas en la rama principal.
+
 ## Profesor
 
 Hola mi nombre es Jon y tengo 40 años.
