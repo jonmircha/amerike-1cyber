@@ -1,0 +1,128 @@
+commit 0f1b84626a165dea57498befd5be5a601a57c011
+Merge: caf5b3d 9094c61
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 14 09:49:53 2024 -0600
+
+    Fusionando manualmente cambios de js con main
+
+commit caf5b3d8faa9d4713bdca37234fe4b30324667de
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 14 09:39:25 2024 -0600
+
+    conectado index.html con styles.css
+
+commit 322b836cca640ba479694480ee72cf91cbb2b0de
+Merge: fc755d6 e57df86
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 14 09:32:19 2024 -0600
+
+    fusionando rama 'css' con 'main'
+
+commit fc755d626f2bb2ef6ad4f6e050ce2dd7f90cc2d8
+Merge: aa112fb b52c7ff
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 14 09:24:55 2024 -0600
+
+    Fusionan rama 'html' con 'main'
+
+commit aa112fbd5cb72a50b94926feeb42e7858c2de7b9
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 14 08:53:57 2024 -0600
+
+    modificando README
+
+commit e57df86a0edf03d371bbb5ed97c7d5017417fd3e
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 14 08:51:38 2024 -0600
+
+    Agregando estilos de fuente
+
+commit b52c7ffb8ac74ea5192a7ea599c305276869e8eb
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 14 08:47:39 2024 -0600
+
+    Modificando index.html desde la rama html
+
+commit 9094c6121e14f0bda40b8d0c0948ebddd03f162a
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 14 08:42:01 2024 -0600
+
+    Agregando contenido al index.html desde la rama js
+
+commit e8d7603136f78f0e6f20b7ac3eb20a5905d5e9eb
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 14 08:37:31 2024 -0600
+
+    Modificando archivo main.js
+
+commit 8cac5af737b7e5211510234a08bea4f0c53e3f87
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 14 08:24:49 2024 -0600
+
+    Creando archivo main en la rama js
+
+commit fb5644e02cadfd976cfeec5f6be73ae2ee7201fa
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 14 08:12:13 2024 -0600
+
+    Creando archivo styles en la rama css
+
+commit 005a6ed5dc4cd693d273ed2dadd995b1ae43c688
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 14 08:02:03 2024 -0600
+
+    Modificando título al index
+
+commit fa23c42fb25092d1ba92458774f311b92708e754
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 14 07:54:38 2024 -0600
+
+    Creando archivo index en la rama html
+
+commit e07c384e82f7a0b5028505f90d22b296d1068097
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 7 08:20:25 2024 -0600
+
+    Actualizando el README
+
+commit c911857df990b591927ad9d8602d5f8b824410b1
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 7 08:16:53 2024 -0600
+
+    Creando archivo LICENSE
+
+commit aa9ca2204a64a019c830790ea04e542b1205e7b2
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 7 08:09:16 2024 -0600
+
+    Subiendo archivo UXPersona.pdf
+
+commit d46542ba5d3d91cd9131eb83ee1ebc098f6346f5
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Sep 7 07:48:07 2024 -0600
+
+    Creando y configurando el .gitignore
+
+commit 36a852534d9c584c5275d723cc562d4092956d3f
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Aug 31 09:32:25 2024 -0600
+
+    Agregando info al readme sobre Git y Subiendo el Syllabus en pdf
+
+commit 148b32dc461955fe5a5f068e9c702f87d26fa9fa
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Aug 31 08:48:21 2024 -0600
+
+    Agregando al readme info sobre MarkDown
+
+commit 246accd7eb577b177f4ea2c7dca72e00087f2770
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Aug 31 08:44:19 2024 -0600
+
+    Agregando al readme información sobre la Terminal
+
+commit 1936150ad38e2b8f5666e652a318d38358c434d9
+Author: Jonathan MirCha <jonmircha@gmail.com>
+Date:   Sat Aug 31 08:35:47 2024 -0600
+
+    Primer cambio

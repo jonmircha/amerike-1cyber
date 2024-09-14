@@ -1,0 +1,28 @@
+*   0f1b846 Fusionando manualmente cambios de js con main
+|\  
+| * 9094c61 Agregando contenido al index.html desde la rama js
+| * e8d7603 Modificando archivo main.js
+| * 8cac5af Creando archivo main en la rama js
+* | caf5b3d conectado index.html con styles.css
+* |   322b836 fusionando rama 'css' con 'main'
+|\ \  
+| * | e57df86 Agregando estilos de fuente
+| * | fb5644e Creando archivo styles en la rama css
+* | |   fc755d6 Fusionan rama 'html' con 'main'
+|\ \ \  
+| * | | b52c7ff Modificando index.html desde la rama html
+| | |/  
+| |/|   
+| * | 005a6ed Modificando título al index
+| * | fa23c42 Creando archivo index en la rama html
+| |/  
+* / aa112fb modificando README
+|/  
+* e07c384 Actualizando el README
+* c911857 Creando archivo LICENSE
+* aa9ca22 Subiendo archivo UXPersona.pdf
+* d46542b Creando y configurando el .gitignore
+* 36a8525 Agregando info al readme sobre Git y Subiendo el Syllabus en pdf
+* 148b32d Agregando al readme info sobre MarkDown
+* 246accd Agregando al readme información sobre la Terminal
+* 1936150 Primer cambio
