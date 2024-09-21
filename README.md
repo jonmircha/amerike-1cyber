@@ -2,6 +2,19 @@
 
 En este repositorio encontrarán los recursos de la asignatura de Programación I de la carrera en Ingeniería en Ciberseguridad de AMERIKE para los campus: Del Valle, Zapopan y EdoMEX.
 
+#### Manejo de Versiones
+
+| V0         | V1            |
+| ---------- | ------------- |
+| 0.1.0      | 1.0.0         |
+| 0.1.1      | 1.0.1         |
+| 0.2.0      | 1.1.0         |
+| 1.0.0      | 1.2.0         |
+| 2.0.0-rc-1 | 2.0.0-alpha-1 |
+| 2.0.0-rc-2 | 2.0.0-alpha-2 |
+| 2.0.0-rc-3 | 2.0.0-alpha-3 |
+| 2.0.0      | 2.0.0         |
+
 - [Syllabus de la Materia](./assets/Syllabus_2025_1_Programacion_I.pdf)
 - Manejo de Terminal
   - [Artículo](https://jonmircha.com/terminal)
