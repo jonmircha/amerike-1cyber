@@ -15,6 +15,12 @@ En este repositorio encontrarán los recursos de la asignatura de Programación 
 
 En esta clase estamos aprendiendo el uso y manejo de las ramas. Regresandso de receso veremos como fusionar el contenido de las ramas en la rama principal.
 
+Para inicializar _Git_ hacemos uso del comando:
+
+```bash
+git init
+```
+
 #### Manejo de Versiones
 
 | V0         | V1            |
