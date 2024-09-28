@@ -13,6 +13,8 @@ En este repositorio encontrarán los recursos de la asignatura de Programación 
   - [Artículo](https://jonmircha.com/git)
   - [Video tutorial](https://www.youtube.com/watch?v=suzMNqDQiyU)
 
+Acabamos de desplegar el servicio de _GitHub Pages_, la url de este repositorio es [https://jonmircha.github.io/amerike-1cyber/](https://jonmircha.github.io/amerike-1cyber/)
+
 En esta clase estamos aprendiendo el uso y manejo de las ramas. Regresandso de receso veremos como fusionar el contenido de las ramas en la rama principal.
 
 Para inicializar _Git_ hacemos uso del comando:
