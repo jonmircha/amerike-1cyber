@@ -15,6 +15,17 @@ Hola soy tu amigo y docente digital...
 
 ## Estudiantes
 
+### Iliusi Reyna 
+
+Soy una estudiante de Amerike de Ciberseguridad.
+
+- [cdmx3060@amerike.edu.mx](cdmx3060@amerike.edu.mx)
+- [https://github.com/iliusi21](https://github.com/iliusi21)
+
+![iliusi](./img/yomero.jpg)
+
+---
+
 ### Karim López García
 
 Soy un estudiante de primer semestre de la ingeniera en Ciberseguridad en la escuela Amerike, apasionado por el mundo de la ciberseguridad y enfocado en aprender todo lo relacionado a la tecnología.
