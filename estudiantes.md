@@ -15,6 +15,17 @@ Hola soy tu amigo y docente digital...
 
 ## Estudiantes
 
+### Karol René Rivas Díaz
+
+Soy un entusiasta de la ciberseguridad, con un enfoque en el Red Team autodidacta.
+
+- [zap1176@amerike.edu.mx](zap1176@amerike.edu.mx)
+- [_**@retimax**_](https://github.com/retimax)
+
+![Karol Rivas](./img/karolRivas.jpg)
+
+---
+
 ### Ander Raúl Garzón Tarango
 
 Hola soy Ander y me gustan mucho los videojuegos, leer y aprender cosas nuevas todos los días.
