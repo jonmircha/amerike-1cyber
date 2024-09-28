@@ -15,6 +15,17 @@ Hola soy tu amigo y docente digital...
 
 ## Estudiantes
 
+### Melannie Sofia Guerrero Guerrero.
+
+Soy amante de la tecnología y de los animales, actualmente estudio el primer semestre de ingeniería en ciberseguridad en la universidad Amerike de la CDMX.
+
+- [cdmx2896@amerike.edu.mx](cdmx2896@amerike.edu.mx)
+- [Mi perfil de _GitHub_](https://github.com/s1ipm)
+
+![Melannie-Guerrero](../amerike1ciber-Mel/img/melannie-gro.jpeg)
+
+--- 
+
 ### Emmanuel Catillo Meneses
 
  23 años, y soy estudiante de amerike. 
