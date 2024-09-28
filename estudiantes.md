@@ -22,13 +22,13 @@ Soy amante de la tecnología y de los animales, actualmente estudio el primer se
 - [cdmx2896@amerike.edu.mx](cdmx2896@amerike.edu.mx)
 - [Mi perfil de _GitHub_](https://github.com/s1ipm)
 
-![Melannie-Guerrero](../amerike1ciber-Mel/img/melannie-gro.jpeg)
+![Melannie-Guerrero](./img/melannie-gro.jpeg)
 
---- 
+---
 
 ### Emmanuel Catillo Meneses
 
- 23 años, y soy estudiante de amerike. 
+23 años, y soy estudiante de amerike.
 
 - [cdmx3067@amerike.edu.mx](cdmx3067@amerike.edu.mx)
 - [https://github.com/lucero131012728](https://github.com/lucero131012728)
@@ -61,13 +61,13 @@ Hola soy Ander y me gustan mucho los videojuegos, leer y aprender cosas nuevas t
 ---
 
 ### Luis Miguel Pérez Arroyo
- 
- Soy un estudiante de primer semestre de la ingeniera en Ciberseguridad en la escuela Amerike, apasionado por el mundo de la ciberseguridad y enfocado en aprender toda cosa que me llame la atención.
- 
- - [cdmx3093@amerike.edu.mx](cdmx3093@amerike.edu.mx)
- 
- - [Mi perfil de _GitHub_](https://github.com/LuisA731)
- 
- ![luis-arroyo](https://drive.google.com/thumbnail?id=1q2gqbiEeEcQoYC-3DmjaQlIr29mqjW2i)
 
- ---
+Soy un estudiante de primer semestre de la ingeniera en Ciberseguridad en la escuela Amerike, apasionado por el mundo de la ciberseguridad y enfocado en aprender toda cosa que me llame la atención.
+
+- [cdmx3093@amerike.edu.mx](cdmx3093@amerike.edu.mx)
+
+- [Mi perfil de _GitHub_](https://github.com/LuisA731)
+
+![luis-arroyo](https://drive.google.com/thumbnail?id=1q2gqbiEeEcQoYC-3DmjaQlIr29mqjW2i)
+
+---
