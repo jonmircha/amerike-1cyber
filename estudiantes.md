@@ -95,3 +95,15 @@ Soy un estudiante de primer semestre de la ingeniera en Ciberseguridad en la esc
 ![luis-arroyo](https://drive.google.com/thumbnail?id=1q2gqbiEeEcQoYC-3DmjaQlIr29mqjW2i)
 
 ---
+
+### Marcos Ramírez Licea
+
+ Soy marcos, ávido odiador de introducciones
+ 
+ - [cdmx2992@amerike.edu.mx](cdmx2992@amerike.edu.mx)
+
+ - [Mi perfil de _GitHub_](https://github.com/DaFrik19)
+
+ ![Marcos](./img/mifoto.jpg)
+
+ ---
