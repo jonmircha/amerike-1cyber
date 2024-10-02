@@ -15,7 +15,7 @@ Hola soy tu amigo y docente digital...
 
 ## Estudiantes
 
-### Iliusi Reyna 
+### Iliusi Reyna
 
 Soy una estudiante de Amerike de Ciberseguridad.
 
@@ -30,10 +30,8 @@ Soy una estudiante de Amerike de Ciberseguridad.
 
 Soy un estudiante de primer semestre de la ingeniera en Ciberseguridad en la escuela Amerike, apasionado por el mundo de la ciberseguridad y enfocado en aprender todo lo relacionado a la tecnología.
 
-
 - [cdmx3099@amerike.edu.mx](cdmx3099@amerike.edu.mx)
 - [Perfil de _Github_](https://github.com/kar64623)
-
 
 ![Yo:](https://drive.google.com/file/d/12TeN9Cx8KuvscGj6FJjG0mHhM3bAQhLh/view?usp=drive_link)
 
@@ -98,23 +96,23 @@ Soy un estudiante de primer semestre de la ingeniera en Ciberseguridad en la esc
 
 ### Marcos Ramírez Licea
 
- Soy marcos, ávido odiador de introducciones
- 
- - [cdmx2992@amerike.edu.mx](cdmx2992@amerike.edu.mx)
+Soy marcos, ávido odiador de introducciones
 
- - [Mi perfil de _GitHub_](https://github.com/DaFrik19)
+- [cdmx2992@amerike.edu.mx](cdmx2992@amerike.edu.mx)
 
- ![Marcos](./img/mifoto.jpg)
+- [Mi perfil de _GitHub_](https://github.com/DaFrik19)
 
- ---
+![Marcos](./img/mifoto.jpg)
 
+---
 
- ### Morales Nieto Omar Alexis
+### Morales Nieto Omar Alexis
 
- Soy Omar, estudiante de Ingenieria en sistemas en la universidad Amerike y me encataria aprender todo sobre la ciberseguridad 
+Soy Omar, estudiante de Ingenieria en sistemas en la universidad Amerike y me encataria aprender todo sobre la ciberseguridad
 
- - [CDMX3097@amerike.edu.mx] (CDMX3097@amerike.edu.mx)
+- [CDMX3097@amerike.edu.mx] (CDMX3097@amerike.edu.mx)
+- [Perfil-de-github-omarrr-rgb] (https://github.com/omarrr-rgb)
 
- - [Perfil-de-github-omarrr-rgb] (https://github.com/omarrr-rgb)
+![Omar](./img/Omar.png)
 
- ![Omar](Omar.png) 
+---
