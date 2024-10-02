@@ -107,3 +107,14 @@ Soy un estudiante de primer semestre de la ingeniera en Ciberseguridad en la esc
  ![Marcos](./img/mifoto.jpg)
 
  ---
+
+
+ ### Morales Nieto Omar Alexis
+
+ Soy Omar, estudiante de Ingenieria en sistemas en la universidad Amerike y me encataria aprender todo sobre la ciberseguridad 
+
+ - [CDMX3097@amerike.edu.mx] (CDMX3097@amerike.edu.mx)
+
+ - [Perfil-de-github-omarrr-rgb] (https://github.com/omarrr-rgb)
+
+ ![Omar](Omar.png) 
