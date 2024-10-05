@@ -2,50 +2,30 @@
 
 En este repositorio encontrarán los recursos de la asignatura de Programación I de la carrera en Ingeniería en Ciberseguridad de AMERIKE para los campus: Del Valle, Zapopan y EdoMEX.
 
-- [Syllabus de la Materia](./assets/Syllabus_2025_1_Programacion_I.pdf)
-- Manejo de Terminal
+La url de este repositorio en el servicio de _GitHub Pages_:
+
+[https://jonmircha.github.io/amerike-1cyber/](https://jonmircha.github.io/amerike-1cyber/)
+
+## Apuntes y Cursos
+
+- [Syllabus de la Materia](./git-github/assets/Syllabus_2025_1_Programacion_I.pdf)
+- _Visual Studio Code_
+  - [Artículo](https://jonmircha.com/vscode)
+  - [Video](https://www.youtube.com/watch?v=KpgVF0mXOUs)
+- Terminal de Comandos
   - [Artículo](https://jonmircha.com/terminal)
-  - [Video tutorial](https://www.youtube.com/watch?v=Pi0KVD4xTbc)
-- _MarkDown_
+  - [Video](https://www.youtube.com/watch?v=Pi0KVD4xTbc)
+- _Markdown_
   - [Artículo](https://jonmircha.com/markdown)
-  - [Video tutorial](https://www.youtube.com/watch?v=FlsoBiteuPM)
+  - [Video](https://www.youtube.com/watch?v=FlsoBiteuPM)
 - _Git & GitHub_
   - [Artículo](https://jonmircha.com/git)
-  - [Video tutorial](https://www.youtube.com/watch?v=suzMNqDQiyU)
+  - [Video](https://www.youtube.com/watch?v=suzMNqDQiyU)
+- Programación Web
+  - [Hablemos de Programación](https://jonmircha.com/programacion)
+  - [Guía _HTML & CSS_](https://jonmircha.com/html)
+  - [Cursos Básicos de la _Web_](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ7FtDshwPGlZoLSWyR5ryt)
 
-Acabamos de desplegar el servicio de _GitHub Pages_, la url de este repositorio es [https://jonmircha.github.io/amerike-1cyber/](https://jonmircha.github.io/amerike-1cyber/)
+## Prácticas
 
-En esta clase estamos aprendiendo el uso y manejo de las ramas. Regresandso de receso veremos como fusionar el contenido de las ramas en la rama principal.
-
-Para inicializar _Git_ hacemos uso del comando:
-
-```bash
-git init
-```
-
-#### Manejo de Versiones
-
-| V0         | V1            |
-| ---------- | ------------- |
-| 0.1.0      | 1.0.0         |
-| 0.1.1      | 1.0.1         |
-| 0.2.0      | 1.1.0         |
-| 1.0.0      | 1.2.0         |
-| 2.0.0-rc-1 | 2.0.0-alpha-1 |
-| 2.0.0-rc-2 | 2.0.0-alpha-2 |
-| 2.0.0-rc-3 | 2.0.0-alpha-3 |
-| 2.0.0      | 2.0.0         |
-
-## Profesor
-
-Hola mi nombre es Jon y tengo 40 años.
-
-Soy Ingeniero de _Software_, especializado en _Web_ y _UX / UI_.
-
-Soy profesor en **AMERIKE** en las carreras de Videojuegos (_**ARTs y DEVs**_) y en Ciberseguridad.
-
-También soy _Edutuber_ y mi canal de Youtube es [este](https://youtube.com/jonmircha)
-
-A continuación les colocaré una lista de enlaces con artículos de blog y videotutoriales de las tecnologías que hemos aprendido:
-
-![Jon MirCha](./assets/jonmircha.jpg)
+- [Práctica 1](./git-github/practica-01.md)
