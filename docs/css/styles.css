@@ -1,4 +1,13 @@
-body {
+html {
+  scroll-behavior: smooth;
+}
+
+/* body {
   background-color: black;
   color: white;
+} */
+
+img {
+  max-width: 100%;
+  height: auto;
 }
