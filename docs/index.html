@@ -11,10 +11,15 @@
     <link rel="icon" href="./img/favicon.png" />
     <link rel="stylesheet" href="./css/styles.css" />
     <!-- Esto es un comentario  -->
+    <style>
+      h2 {
+        color: green;
+      }
+    </style>
   </head>
   <body>
     <header>
-      <h1 id="inicio">Aprendiendo HTML</h1>
+      <h1 id="inicio" style="color: red">Aprendiendo HTML</h1>
       <nav>
         <ul>
           <li><a href="#etiquetas-texto">Etiquetas de Texto</a></li>
@@ -31,12 +36,31 @@
     <main>
       <section id="etiquetas-texto">
         <h2>Etiquetas de Texto</h2>
+        <p class="bg-pink text-red font-1_5 text-center">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. A, veritatis
+          vitae. Excepturi eaque minima praesentium iste laudantium ab
+          recusandae alias nemo tempora tenetur obcaecati, dicta quas earum
+          reiciendis labore corrupti?
+        </p>
+        <p class="bg-khaki text-orange font-2 text-right">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti,
+          sapiente eos perspiciatis magnam, ad, praesentium accusamus odit sint
+          aperiam repudiandae ab laboriosam esse modi id? Quisquam quia cumque
+          numquam illum.
+        </p>
+        <p class="bg-skyblue text-blue font-1 text-left">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
+          veritatis illum earum nemo cum, maiores assumenda quos magnam sit
+          omnis voluptatibus laborum fugit eum, deleniti quibusdam optio? Est,
+          vel corrupti?
+        </p>
         <p>
           Hola mi nombre es <u>Jonathan</u>, tengo 40 años y soy
           <b>Ingeniero de <i>Software</i></b
           >.
         </p>
         <img
+          id="jon-avatar"
           src="https://jonmircha.com/img/jonmircha.jpg"
           alt="Jonathan MirCha"
         />
@@ -307,9 +331,9 @@
       <section id="tablas">
         <table border="1">
           <tr>
-            <th>Ciudad</th>
-            <th>País</th>
-            <th>Continente</th>
+            <th class="bg-pink font-1_5">Ciudad</th>
+            <th class="bg-khaki font-1_5">País</th>
+            <th class="bg-skyblue font-1_5">Continente</th>
           </tr>
           <tr>
             <td>CDMX</td>
